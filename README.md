@@ -1,4 +1,4 @@
 # Lex + Bison Lab
 
-Use `./contrib/compile.sh` to compile the program.
+Run `./contrib/compile.sh` in the root of the project to compile the parser.
 
